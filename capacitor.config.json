@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "scrapping",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

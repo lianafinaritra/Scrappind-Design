@@ -1,0 +1,7 @@
+{
+  "name": "scrapping",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
